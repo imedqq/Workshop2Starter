@@ -29,6 +29,6 @@
         android:layout_below="@+id/editText"
         android:layout_alignStart="@+id/editText"
         android:layout_marginTop="75dp"
-        android:id="@+id/button" />
+        android:id="@+id/ok_button" />
 
 </RelativeLayout>
